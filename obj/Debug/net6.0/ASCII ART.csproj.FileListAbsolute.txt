@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\ASCII ART\bin\Debug\net6.0\ASCII ART.exe
+C:\Users\Jenni\source\repos\ASCII ART\bin\Debug\net6.0\ASCII ART.deps.json
+C:\Users\Jenni\source\repos\ASCII ART\bin\Debug\net6.0\ASCII ART.runtimeconfig.json
+C:\Users\Jenni\source\repos\ASCII ART\bin\Debug\net6.0\ASCII ART.dll
+C:\Users\Jenni\source\repos\ASCII ART\bin\Debug\net6.0\ASCII ART.pdb
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.dll
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\refint\ASCII ART.dll
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.pdb
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ASCII ART.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\ASCII ART\obj\Debug\net6.0\ref\ASCII ART.dll
